@@ -8,21 +8,35 @@ body {
 }
 
 header {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  padding: 24px 0;
+  padding: 9px 0;
 }
 
 .imagem-header {
-  width: 50%;
+  width: 30%;
   padding: 15px 0;
 }
 
 .lista-header {
     display: inline-block;
     margin: 0 10px;
-    font-size: 24px;
+    font-size: 30px;
+}
+
+.div-h1 {
+  background-color: #DADADA;
+  padding: 5px 4px;
+  
+}
+
+.div-titulo {
+  background-color: #DADADA;
+  margin: 24px 0;
+}
+
+.secao-titulo {
+  text-align: center;
 }
